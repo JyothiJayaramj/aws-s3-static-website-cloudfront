@@ -72,7 +72,8 @@ To provide the public access to the S3 bucket
 
 S3 Get object
 
-![image.png](attachment:0aa9f463-744f-4b6a-83a7-4cecfc0cdb0b:image.png)
+<img width="1114" height="550" alt="image" src="https://github.com/user-attachments/assets/de948ee3-c067-412a-a3fd-ea306b9ad321" />
+
 
 ![image.png](attachment:f1c987d5-21e9-40e9-ac05-d7cd2a9f0d28:image.png)
 
