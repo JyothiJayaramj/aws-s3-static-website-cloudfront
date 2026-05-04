@@ -75,7 +75,8 @@ S3 Get object
 <img width="1114" height="550" alt="image" src="https://github.com/user-attachments/assets/de948ee3-c067-412a-a3fd-ea306b9ad321" />
 
 
-![image.png](attachment:f1c987d5-21e9-40e9-ac05-d7cd2a9f0d28:image.png)
+<img width="1000" height="439" alt="image" src="https://github.com/user-attachments/assets/635a1ae4-4d65-4bf4-aef5-710873c3d48d" />
+
 
 ### 4. Enable Static Website Hosting
 
@@ -94,7 +95,8 @@ When a user opens this:
 > S3 directly returns the static files
 > 
 
-![image.png](attachment:60a1616a-7b3c-4867-b4ee-72f4df25728e:image.png)
+<img width="1353" height="688" alt="image" src="https://github.com/user-attachments/assets/cbe342f3-9104-4655-821d-91d3bd1c769f" />
+
 
 ---
 
@@ -149,9 +151,11 @@ This ensures:
 
 1. Browse the Distribution Domain name 
 
-![image.png](attachment:dba85d3e-3db2-4164-9033-d1ff5214370f:image.png)
+<img width="1339" height="250" alt="image" src="https://github.com/user-attachments/assets/54c8d669-2cff-472e-8625-0edbe8d24a29" />
 
-![image.png](attachment:90ebed55-e903-48d6-99bf-e384dca4b2ef:image.png)
+
+<img width="1337" height="699" alt="image" src="https://github.com/user-attachments/assets/472eeea8-4270-4816-a563-2ee654b8748c" />
+
 
 ## Request Flow (Important)
 
@@ -207,42 +211,56 @@ You achieve:
 
 ### 1. Create a distribution
 
-![image.png](attachment:7a97837b-9bee-48ae-9dde-bdc964ad3a60:image.png)
+<img width="1345" height="690" alt="image" src="https://github.com/user-attachments/assets/ba91da53-0ba7-4232-94a8-f8a9ef533165" />
+
 
 ### 2. Specify the Origin type as S3
 
-![image.png](attachment:d981b7f0-979e-4299-b50e-f377fe854a7a:image.png)
+<img width="1363" height="623" alt="image" src="https://github.com/user-attachments/assets/9569f18b-fae3-47dc-915d-7be30086cce5" />
 
-![image.png](attachment:a01f5c6c-dc93-4577-a6c9-de4266d02fbc:image.png)
+
+<img width="1363" height="623" alt="image" src="https://github.com/user-attachments/assets/c8b34829-a05b-4c76-accb-c86cc807d565" />
+
 
 ### 3. Considering cost i am avoiding enabling WAF
 
-![image.png](attachment:1f948a3a-b935-402b-afba-26c896d77ff3:image.png)
+<img width="1363" height="623" alt="image" src="https://github.com/user-attachments/assets/4e3601cc-39b0-4dcc-bd24-69978ba5bc33" />
+
 
 ### 4. Click on create distribution
 
-![image.png](attachment:87e1fa92-6635-4b17-985b-7c01fcf119f3:image.png)
+<img width="1363" height="623" alt="image" src="https://github.com/user-attachments/assets/c7e37bf8-95fa-4174-aa6f-40171dd55644" />
+
 
 ### 5. Provide Public access to the Origin in the Origin section
 
 Select the origin and click on edit 
 
-![image.png](attachment:ddf659e0-e79a-4197-932a-35faab3e4881:image.png)
+<img width="1363" height="623" alt="image" src="https://github.com/user-attachments/assets/2cdb1cc3-4b87-40d6-9bef-62f8a4927962" />
 
-![image.png](attachment:255e9d54-bd42-4299-a60c-dae1324f99b1:image.png)
+
+<img width="1363" height="623" alt="image" src="https://github.com/user-attachments/assets/d2a63a69-2b78-4e63-8458-7746f91ae168" />
+
 
 ### 6. Provide the **Default root object to the static html page**
 
-![image.png](attachment:030afa91-5ddc-4486-bf53-c2faeb258ba7:image.png)
+<img width="1363" height="623" alt="image" src="https://github.com/user-attachments/assets/e032673d-ead8-4fac-9b81-880e2baabecf" />
 
-![image.png](attachment:353d2dcf-6975-4cbd-9cf7-519030171d32:image.png)
 
-![image.png](attachment:792230d8-d7e2-405f-9de2-29a7c0b66932:image.png)
+<img width="1346" height="310" alt="image" src="https://github.com/user-attachments/assets/11e1f163-4dc7-4bf0-8197-7d8449341b55" />
 
-![image.png](attachment:23c0b623-94ea-4d43-8f26-6b231fda234c:image.png)
 
-![image.png](attachment:7ad61cdc-f9b9-45de-b18e-c1bfaf7d3ed1:image.png)
+<img width="1344" height="617" alt="image" src="https://github.com/user-attachments/assets/3caa23ad-0428-40d2-b78e-1ae1e6136f0b" />
 
-![image.png](attachment:6baf61fd-d363-443d-b5fe-646499831784:image.png)
 
-![image.png](attachment:fec7c8b4-2263-46b5-af1a-310c121b3235:image.png)
+<img width="1344" height="617" alt="image" src="https://github.com/user-attachments/assets/16cc8e71-d06e-4731-95da-de8e1fce00bf" />
+
+
+<img width="1344" height="617" alt="image" src="https://github.com/user-attachments/assets/f2d1b4f8-9b2d-4dfd-a061-bae3968893fa" />
+
+
+<img width="1362" height="353" alt="image" src="https://github.com/user-attachments/assets/6bf807c1-8e4f-4685-9bc3-496725818dbf" />
+
+
+<img width="1345" height="690" alt="image" src="https://github.com/user-attachments/assets/03448cdf-a78b-456b-b3b3-0c864554d173" />
+
